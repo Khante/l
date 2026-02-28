@@ -1,0 +1,17 @@
+REJECTION_PHRASES: list[str] = [
+    "other candidates",
+    "unfortunately",
+    "not selected",
+    "encourage",
+    "not to move forward",
+    "not to move you forward",
+    "after careful consideration",
+    "unable to move forward",
+    "regret to inform you",
+    "that you have not been selected",
+    "reviewing your",
+    "time and effort",
+    "feedback",
+    "received a lot of",
+    "closer match",
+]
